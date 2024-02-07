@@ -1,6 +1,6 @@
 # uHost - Front-end Website Project
 
-![uHost](uhost.png)
+![uHost](uHost.png)
 
 This is a front-end project created as part of the **CSS - The Complete Guide 2020** course on Udemy by Maximilian Schwarzmüller. The purpose of this project is to enhance my front-end development skills through practical implementation.
 
